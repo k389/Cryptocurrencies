@@ -1,5 +1,5 @@
 # Cryptocurrencies
-Supervised Machine Learning
+UnSupervised Machine Learning
 
 # Project Overview/Challenge
 	- Preprocess the data for dimensions reduction with PCA and clustering using K-means.
